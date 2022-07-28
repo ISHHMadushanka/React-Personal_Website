@@ -14,44 +14,44 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Charts templates & infographics in Figma',
-    github: '##',
-    demo: 'https://dribbble.com/shots/18672344-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'React Js personal portfolio for CV Resume',
+    github: 'https://github.com/ISHHMadushanka/personal-portfolio.git',
+    demo: 'https://www.isharamadushanka.tk/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Figma dashboard UI kit for data design web apps',
-    github: '##',
-    demo: 'https://dribbble.com/shots/18672427-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    title: 'Secure File Storage on Cloud Using Hybrid Cryptography',
+    github: 'https://github.com/ISHHMadushanka/Secure-File-Storage-on-Cloud-using-Hybrid-Cryptography.git',
+    demo: 'http://hostingonherokuu.herokuapp.com/'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Charts templates & infographics in Figma',
-    github: '##',
-    demo: 'https://dribbble.com/shots/18543028-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'My first personal portfolio using HTML, CSS, JavaScript',
+    github: '#',
+    demo: 'https://isharamadushanka.ml/'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Figma dashboard UI kit for data design web apps',
-    github: '##',
-    demo: 'https://dribbble.com/shots/18672414-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    title: 'My second React js personal portfolio',
+    github: 'https://github.com/ISHHMadushanka/React-Personal_Website.git',
+    demo: '#'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Charts templates & infographics in Figma',
-    github: '##',
-    demo: 'https://dribbble.com/shots/18672312-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'Auto name list generator website',
+    github: 'https://github.com/ISHHMadushanka/Name-List-Generator-Web-Application.git',
+    demo: '#'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Charts templates & infographics in Figma',
-    github: '##',
-    demo: 'https://dribbble.com/shots/18672362-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'My IM Wordpress company google website',
+    github: '#',
+    demo: 'https://im-wordpress-web-design.business.site/'
   }
 ] 
 

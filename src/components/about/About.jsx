@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/me-about.png'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {ImFolderOpen} from 'react-icons/im'
@@ -23,24 +23,24 @@ const About = () => {
       <article className="about__card">
         <FaAward className='about__icon'/>
         <h5>Experience</h5>
-        <small>3+ Years Working</small>
+        <small>1+ Years Working</small>
       </article>
 
       <article className="about__card">
         <FiUsers className='about__icon'/>
         <h5>Clients</h5>
-        <small>200+ Worldwide</small>
+        <small>2+ Worldwide</small>
       </article>
 
       <article className="about__card">
         <ImFolderOpen className='about__icon'/>
         <h5>Projects</h5>
-        <small>80+ Completed</small>
+        <small>10+ Completed</small>
       </article>
     </div>
 
     <p>
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque eligendi a voluptates eveniet eum dignissimos quo placeat natus iusto omnis unde, molestias ipsam at, possimus facilis, consequuntur quod fugiat? Ipsum.
+      I'm P.G. Ishara Madushanka. I am currently studying in the second term of my final year at Sabaragamuwa University. I came to the IT industry after coming to university. I learned many things beyond theory. I completed my internship at LK Domain Registry. I am a knowledge seeker and very eager to learn new things. I work as a Fullstack Developer in the Software Engineering field. 
     </p>
 
 <a href="#contact" className='btn btn-primary'>Let's Talk</a>

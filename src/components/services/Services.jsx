@@ -17,27 +17,37 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>E-commerce Platform</p>
             </li>
 
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Color theory knowledge</p>
             </li>
 
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Google Analythics & SEO</p>
             </li>
 
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Web Usability</p>
             </li>
 
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Photo Composition</p>
+            </li>
+
+            <li>
+              <HiShieldCheck className='service__list-icon'/>
+              <p>Grid & Layout</p>
+            </li>
+
+            <li>
+              <HiShieldCheck className='service__list-icon'/>
+              <p>Mobile Responsiveness</p>
             </li>
 
           </ul>
@@ -54,32 +64,47 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Front-end Development</p>
             </li>
 
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Back-end Development</p>
             </li>
 
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Full Stack Development</p>
             </li>
 
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Website Development</p>
             </li>
 
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Security Development</p>
             </li>
 
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Database Migration</p>
+            </li>
+
+            <li>
+              <HiShieldCheck className='service__list-icon'/>
+              <p>Wordpress Development</p>
+            </li>
+
+            <li>
+              <HiShieldCheck className='service__list-icon'/>
+              <p>CRM Handling</p>
+            </li>
+
+            <li>
+              <HiShieldCheck className='service__list-icon'/>
+              <p>Error Handling & Deployment</p>
             </li>
 
           </ul>
@@ -96,27 +121,37 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Domain Registration</p>
             </li>
 
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Host Server Handling</p>
             </li>
 
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Email Marketing</p>
             </li>
 
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>SSL Handling</p>
             </li>
 
             <li>
               <HiShieldCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>SEO Optimization</p>
+            </li>
+
+            <li>
+              <HiShieldCheck className='service__list-icon'/>
+              <p>Cloud Hosting</p>
+            </li>
+
+            <li>
+              <HiShieldCheck className='service__list-icon'/>
+              <p>Wordpress Hosting</p>
             </li>
 
           </ul>
